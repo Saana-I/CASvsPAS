@@ -18,6 +18,7 @@ depth_mean = average depth measurements over 1-min time bins <br />
 pitch_mean = circular mean pitch over 1-min time bins <br /> 
 RC_prop, BUZZ_prop = proportion time regular clicking / buzz clicking in each bin <br /> 
 nBUZZ = number of buzz starts in each bin <br /> 
+fl_rate = number of fluke stroke detections, per minute  <br /> 
 SLmax, SPLmax, SELmax = maximum source level, received SPL, and received SEL in each time bin <br /> 
 SPLmax_incr, SELmax_incr = maximum SLmax, SPLmax, SELmax since the start of the session <br /> 
 SPLmax_prev, SELmax_prev, SPLmax_post, SELmax_post, GMOO_tsince, UPAS_tsince = variables defined in Table 2 <br /> 
