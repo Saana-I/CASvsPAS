@@ -3,8 +3,8 @@ Supplementary data for our MS 'When the noise goes on: received sound energy pre
 
 Dataset contains two tables
 ---------------------------
-etab = data frame containing exposure sessions
-mtab = data frame containing min-by-min data
+etab = data frame containing exposure sessions;
+mtab = data frame containing min-by-min data;
 
 Variables definitions
 --------------------
