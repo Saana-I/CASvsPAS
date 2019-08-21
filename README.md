@@ -9,7 +9,7 @@ mtab = data frame containing min-by-min data <br />
 Variables definitions
 --------------------
 Tag_ID = tag deployment identifier <br /> 
-Session = sound exposure session type <br />  
+Session = sound exposure session type <br />
 Start_UTC, End_UTC = start and end time in GMT/UTC <br /> 
 Focal = was the whale approached during experiments or not <br /> 
 sfromtot = seconds from tag recording start time <br /> 
